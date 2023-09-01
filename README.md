@@ -30,7 +30,7 @@ https://darianktn.github.io/euclid/
 - [Swiper](https://swiperjs.com/)
 
 ## Контактная информация / Contact Information
-По любому вопроу вы можете написать мне на почту 
+По любому вопросу вы можете написать мне на почту 
 
 For any message you can email me
 
