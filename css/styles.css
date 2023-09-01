@@ -72,7 +72,7 @@ img {
 body {
 	min-width: 320px;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #f1f1f1;
+	background-color: var(--white);
 }
 
 .list-reset {
@@ -150,7 +150,6 @@ body {
 
 .header__logo-link {
 	display: inline-block;
-	margin-right: 0 auto;
 }
 
 .logo-link-img {
@@ -769,7 +768,8 @@ body {
 }
 
 .steps__img {
-	width: calc((100%-30px) / 2);
+	width: 870px;
+	height: 460px;
 	object-fit: cover;
 }
 
@@ -971,7 +971,6 @@ body {
 .footer__list {
 	display: flex;
 	flex-direction: column;
-	vertical-align: space-between;
 	flex-wrap: nowrap;
 	margin-bottom: 97px;
 }
@@ -994,7 +993,7 @@ body {
 	color: var(--gray);
 	max-width: 251px;
 	outline: 2px solid transparent;
-	outline-offset: 4px 5px;
+	outline-offset: 5px;
 	transition: color 0.3s ease-in-out, outline 0.3s ease-in-out;
 }
 
@@ -1071,7 +1070,6 @@ body {
 
 .footer-title {
 	margin: 0 0 25px 0;
-	max-width: 0 0 25px 0;
 	font-weight: 400;
 	font-size: 48px;
 	line-height: 59px;

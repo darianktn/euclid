@@ -265,13 +265,13 @@
 	.burger:active > .burger__line:nth-child(2) {
 		background-color: var(--dark-orange);
 		width: 25px;
-		transform: rotateX(5px);
+		transform: rotateX(5deg);
 	}
 
 	.burger:active > .burger__line:last-child {
 		background-color: var(--dark-orange);
 		width: 18px;
-		transform: rotateX(17px);
+		transform: rotateX(17deg§);
 	}
 
 	.burger--active > .burger__line:nth-child(2) {
