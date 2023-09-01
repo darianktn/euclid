@@ -3,14 +3,14 @@
 Данный репозиторий содержит мой учебный проект из курса "Базовая веб-верстка" от Skillbox.
 Это сайт строительной компании "Евклид"
 
-This repository contains my educational project from the "Basic Layout" course by Skillbox.
-This is the site of the construction company "Euclid".
-
 Сайт адаптивен для любых устройств и разрешений.
 Также в нем использована сторонняя библиотека "Swiper" для оформления секции hero.
 В одной из секций написаны табы для переключения контента.
 Другая секция оформлена в качестве аккордеона со скрытой информацией, раскрывающейся по клику на подзаголовок.
 Также на сайте сделаны ховер-эффекты.
+
+This repository contains my educational project from the "Basic Layout" course by Skillbox.
+This is the site of the construction company "Euclid".
 
 This project is responsive for all devices and resolutions.
 There is also used a third-party library "Swiper" to design the hero section.
